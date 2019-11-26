@@ -1,0 +1,48 @@
+play_pattern [:b4, :b4]
+play :b4, release:2
+sleep 2
+play_pattern [:b4, :b4]
+play :b4, release:2
+sleep 2
+play_pattern [:b4, :d5]
+play :g4, release:1.5
+sleep 1.5
+play :a4, release:0.5
+sleep 0.5
+play :b4, release:3
+sleep 4
+
+play_pattern [:c5, :c5]
+play :c5, release:1.5
+sleep 1.5
+play :c5, release:0.5
+sleep 0.5
+play_pattern [:c5, :b4, :b4]
+play_pattern_timed [:b4, :b4], 0.5, release:0.5
+play_pattern [:b4, :a4, :a4, :b4]
+play_pattern_timed [:a4, :d5], 2, release:2
+
+play_pattern [:b4, :b4]
+play :b4, release:2
+sleep 2
+play_pattern [:b4, :b4]
+play :b4, release:2
+sleep 2
+play_pattern [:b4, :d5]
+play :g4, release:1.5
+sleep 1.5
+play :a4, release:0.5
+sleep 0.5
+play :b4, release:3
+sleep 4
+
+play_pattern [:c5, :c5]
+play :c5, release:1.5
+sleep 1.5
+play :c5, release:0.5
+sleep 0.5
+play_pattern [:c5, :b4, :b4]
+play_pattern_timed [:b4, :b4], 0.5, release:0.5
+play_pattern [:d5, :d5, :c5, :a4]
+play :g4, release:3
+sleep 4

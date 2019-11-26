@@ -13,5 +13,6 @@ Zorg dat je een installatie van **Sonic Pi** op je laptop hebt voordat je verder
 1. De muziek van *Jingle bells*
 2. Het couplet programmeren
 3. Het couplet als functie
+4. Het refrein als functie
 
 [Naar de eerste stap >>](stap_1.md)
