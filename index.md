@@ -11,5 +11,6 @@ Zorg dat je een installatie van **Sonic Pi** op je laptop hebt voordat je verder
 ## Inhoud
 
 1. De muziek van *Jingle bells*
+2. Het couplet programmeren
 
 [Naar de eerste stap >>](stap_1.md)
