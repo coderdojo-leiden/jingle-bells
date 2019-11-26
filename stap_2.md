@@ -17,7 +17,7 @@ Als je naar de code van het eerste couplet kijkt, zie je dat er behalve het `pla
 
 Aan het `play_pattern` commando geef je een lijst met noten, waarna het commando deze noten achter elkaar afspeelt, waarbij iedere noot 1 tel duurt.  
 Het commando  
-`play_pattern [:d4, :b4, :a4, :g4`  
+`play_pattern [:d4, :b4, :a4, :g4]`  
 doet dus precies hetzelde als  
 `play :d4`  
 `sleep 1`  
@@ -29,7 +29,7 @@ doet dus precies hetzelde als
 `sleep 1`  
 maar dan in 1 regel in plaats van in 8 regels!
 
-Aan het `play_pattern_timed` commando geef je een lijst met noten gevolgd door een even lange lijst met getallen. Het getal geeft aan hoe lang de noot (in tellen) moet duren. Dit commando is handig als je noten niet 1 tel duren.  
+Aan het `play_pattern_timed` commando geef je een lijst met noten gevolgd door een even lange lijst met getallen. Het getal geeft aan hoe lang de noot (in tellen) moet duren. Dit commando is handig als je noten niet allemaal 1 tel duren.  
 Het commando  
 `play_pattern_timed [:d4, :d4, :d4, :b4, :a4, :g4], [0.5, 0.5, 1, 1, 1, 1]`  
 doet precies hetzelde als  
@@ -46,6 +46,8 @@ doet precies hetzelde als
 `play :g4`  
 `sleep 1`  
 maar dan in 1 regel in plaats van in 12 regels!
+
+[De volgende stap >>](stap_3.md)
 
 
 
