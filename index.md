@@ -7,3 +7,9 @@ Meer informatie over **Sonic Pi** vind je op de [Sonic Pi-pagina](https://coderd
 Zorg dat je een installatie van **Sonic Pi** op je laptop hebt voordat je verdergaat met dit project.
 
 ![Jingle bells](images/jingle-bells.png)
+
+## Inhoud
+
+1. De muziek van *Jingle bells*
+
+[Naar de eerste stap >>](stap_1.md)
