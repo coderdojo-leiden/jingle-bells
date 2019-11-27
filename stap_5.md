@@ -18,3 +18,5 @@ Aan het einde van de buffer staan als het goed is nu de volgende vier regels cod
 Druk weer op `Run` om te testen. Je couplet met piano-geluid wordt nu gevolgd door het refrein met bel-geluid.
 
 Probeer eens andere synths om te horen welk geluid het beste bij jouw uitvoering van *Jingle bells* past.
+
+[De laatste stap >>](stap_6.md)
