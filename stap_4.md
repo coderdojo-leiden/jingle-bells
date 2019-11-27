@@ -20,3 +20,5 @@ en voor de regel met
 `end`
 
 Druk weer op `Run` om te testen. Je couplet wordt nu gevolgd door het refrein!
+
+[De volgende stap >>](stap_5.md)
