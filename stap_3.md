@@ -1,6 +1,6 @@
 # Het couplet als functie
 
-Het couplet van *Jingle bells* gaan we straks 3 keer afspelen, iedere keer gevolgd door het refrein. Om het gebruik van de code voor het couplet makkelijker te maken, gaan we die code inpakken in een zogenaamde __functie__. Een __functie__ is een stuk code dat je een unieke naam geeft zodat je die code later kunt gebruiken door alleen maar de naam van de functie op te geven.
+Het couplet van *Jingle bells* gaan we straks 3 keer afspelen, iedere keer gevolgd door het refrein. Om het gebruik van de code voor het couplet makkelijker te maken, gaan we die code inpakken in een zogenaamde **functie**. Een **functie** is een stuk code dat je een unieke naam geeft zodat je die code later kunt gebruiken door alleen maar de naam van de functie op te geven.
 
 De functie voor het couplet geven we als naam `speel_couplet`. We kiezen de naam van de functie zo dat iemand anders snapt wat de functie doet zonder naar de code te hoeven kijken.
 
@@ -11,7 +11,7 @@ Ga naar het einde van de buffer en voeg na het laatste `sleep` commando een nieu
 
 Druk op de `Run` knop om je muziek te testen. Je hoort helemaal niets! Dit is omdat je de functie `speel_couplet` wel gedefinieerd hebt, maar nog niet aangeroepen hebt.
 
-Ga weer naar het begin van de buffer en voeg direct na het `use_bpm` commando een nieuwe regel toe met  
+Blijf aan het einde van de buffer en voeg direct na de regel met `end` een lege regel toe en daarna nog een nieuwe regel met  
 `speel_couplet`  
 Je hebt nu een aanroep van je functie toegevoegd.
 
