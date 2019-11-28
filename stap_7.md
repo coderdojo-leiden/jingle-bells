@@ -37,14 +37,13 @@ Doe hetzelfde voor het refrein:
 
 Druk weer op `Run` om te testen. *Jingle bells* zou weer normaal uitgevoerd moeten worden.
 
-We sluiten af met nog een leuk weetje over parameters. Als je de eerste regel van de definitie van functie `speel_refrein`  
-vervangt door  
+We sluiten af met nog een leuk weetje over parameters. Als je de eerste regel van de definitie van functie `speel_refrein` vervangt door  
 `define :speel_refrein do |instrument = :pretty_bell|`  
 dan kun je de aanroep  
 `speel_refrein :pretty_bell`  
 vervangen door  
 `speel_refrein`  
-Dus als je `speel_refrein` aanroept zonder parameter, dan weet de functie dat je `:pretty_bell` wilt gebruiken omdat je parameter door `instrument = :pretty_bell` is gedefinieerd.  
+Dus als je `speel_refrein` aanroept zonder parameter, dan weet de functie dat je `:pretty_bell` wilt gebruiken omdat je parameter door `instrument = :pretty_bell` is gedefinieerd. We noemen `:pretty_bell` de standaardwaarde van parameter `instrument`.  
 En je kunt het refrein nog altijd afspelen met een ander geluid, bijvoorbeeld  
 `speel_refrein :dull_bell`  
 Uiteraard kun je dit ook voor het couplet doen.
