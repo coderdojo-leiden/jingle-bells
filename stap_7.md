@@ -46,4 +46,4 @@ vervangen door
 Dus als je `speel_refrein` aanroept zonder parameter, dan weet de functie dat je `:pretty_bell` wilt gebruiken omdat je parameter door `instrument = :pretty_bell` is gedefinieerd. We noemen `:pretty_bell` de standaardwaarde van parameter `instrument`.  
 En je kunt het refrein nog altijd afspelen met een ander geluid, bijvoorbeeld  
 `speel_refrein :dull_bell`  
-Uiteraard kun je dit ook voor het couplet doen.
+Uiteraard kun je ditzelfde ook voor het couplet doen.
