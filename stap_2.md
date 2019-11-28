@@ -15,6 +15,8 @@ Druk op de `Run` knop om je muziek te testen. Je hoort nu de muziek van het eers
 
 Als je naar de code van het eerste couplet kijkt, zie je dat er behalve het `play` commando (dat een enkele noot speelt) nog twee commando's worden gebruikt: `play_pattern` en `play_pattern_timed`. Het leuke van deze 2 commando's is dat je meerdere noten achter elkaar af kunt spelen met maar 1 commando!
 
+Als je meer wilt weten over de `play_pattern` en `play_pattern_timed` commando's, lees dan vooral verder, ander ga je meteen door naar [de volgende stap >>](stap_3.md)
+
 Aan het `play_pattern` commando geef je een lijst met noten, waarna het commando deze noten achter elkaar afspeelt, waarbij iedere noot 1 tel duurt.  
 Het commando  
 `play_pattern [:d4, :b4, :a4, :g4]`  
@@ -28,6 +30,10 @@ doet dus precies hetzelde als
 `play :g4`  
 `sleep 1`  
 maar dan in 1 regel in plaats van in 8 regels!
+
+Het `play_pattern` commando, maar ook het `play_pattern_timed` commando wat we zo meteen behandelen, maakt gebruik van lijsten. Een lijst begint met een openblokhaak `[`, eindigt met een sluitblokhaak `]` en daartussen zet je de elementen gescheiden door komma’s. De elementen kunnen noten zijn (zoals hierboven), maar ook bijvoorbeeld getallen. Voorbeelden van lijsten met noten zijn:  
+`[:d4, :b4]` is een lijst met 2 noten: `:b4` gevolgd door `:d4`,  
+`[:b4]` is een lijst met maar 1 noot: `:b4`.
 
 Aan het `play_pattern_timed` commando geef je een lijst met noten gevolgd door een even lange lijst met getallen. Het getal geeft aan hoe lang de noot (in tellen) moet duren. Dit commando is handig als je noten niet allemaal 1 tel duren.  
 Het commando  
@@ -46,6 +52,8 @@ doet precies hetzelde als
 `play :g4`  
 `sleep 1`  
 maar dan in 1 regel in plaats van in 12 regels!
+
+Hierboven zie je naast een lijst met noten een voorbeeld van een lijst met getallen.
 
 [De volgende stap >>](stap_3.md)
 
