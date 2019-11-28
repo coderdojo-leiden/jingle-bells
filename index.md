@@ -16,5 +16,6 @@ Zorg dat je een installatie van **Sonic Pi** op je laptop hebt voordat je verder
 4. Het refrein als functie
 5. Uitdaging: De geluiden aanpassen
 6. Uitdaging: Herhalen maar!
+7. Extraatje: Functieparameters
 
 [Naar de eerste stap >>](stap_1.md)

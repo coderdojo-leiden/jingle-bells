@@ -15,3 +15,5 @@ Als je in Sonic Pi een serie commando's een vast aantal keren wilt herhalen, dan
 `end`  
 Meer herhalingen nodig? Vervang gewoon het getal `3` door het aantal herhalingen dat jij wilt! En het aantal regels code blijft gewoon 6.  
 Het enige nadeel(tje) van deze oplossing is dat het nu lastiger is om bijvoorbeeld je couplet iedere keer met een ander geluid (bijv. eerste couplet `:piano`, tweede couplet `:hoover` en derde couplet `:prophet`) af te spelen.
+
+Wil je nog wat meer te weten over de mogelijkheden van functies? Ga dan naar de uitleg op [de volgende pagina](stap_7.md).
