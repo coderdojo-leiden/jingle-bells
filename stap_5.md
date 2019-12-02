@@ -20,3 +20,5 @@ Druk weer op `Run` om te testen. Je couplet met piano-geluid wordt nu gevolgd do
 Probeer eens andere synths om te horen welk geluid het beste bij jouw uitvoering van *Jingle bells* past.
 
 [De laatste stap >>](stap_6.md)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
