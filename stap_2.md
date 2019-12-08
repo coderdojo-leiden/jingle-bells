@@ -53,7 +53,7 @@ doet precies hetzelde als
 `sleep 1`  
 maar dan in 1 regel in plaats van in 12 regels!
 
-Hierboven zie je naast een lijst met noten een voorbeeld van een lijst met getallen.
+Hierboven zie je naast een lijst met noten (`[:d4, :d4, :d4, :b4, :a4, :g4]`) een voorbeeld van een lijst met getallen (`[0.5, 0.5, 1, 1, 1, 1]`).
 
 [De volgende stap >>](stap_3.md)
 

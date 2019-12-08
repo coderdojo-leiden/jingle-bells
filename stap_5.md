@@ -1,6 +1,6 @@
 # Uitdaging: De geluiden aanpassen
 
-Laten we het standaard piepje van **Sonic Pi** eens vervangen door een leuker geluid. Voor het couplet gaan we een piano-geluid gebruiken en voor het refrein een bel-geluid. (Het toch niet voor niets *Jingle bells*?)
+Laten we het standaard piepje van **Sonic Pi** eens vervangen door een leuker geluid. Voor het couplet gaan we een piano-geluid gebruiken en voor het refrein een bel-geluid. (Het heet toch niet voor niets *Jingle* **bells**?)
 
 Ga naar het einde van de buffer en voeg vlak voor de regel met de **aanroep** van functie `speel_couplet` een nieuwe regel toe met  
 `use_synth :piano`
